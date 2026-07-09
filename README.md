@@ -9,4 +9,4 @@ Engenheiro Informático | Desenvolvimento Web Full-Stack
 
 ### Ferramentas e tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,cs,html,css,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=c,c#,c++js,react,nodejs,express,postgres,cs,html,css,figma,github" />
